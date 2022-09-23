@@ -1,8 +1,16 @@
 # awesome-platform-engineering 平台工程列表
 A awesome list of Platform Engineering 
 
+## Concept 概念/术语 
+- PE : Platform Engineering 平台工程
+- PET : Platform Engineering Team 平台工程团队
+- IDP : Internal Developer Platform 内部开发者平台 
+- DX/DevX : Developer Experience (also EX: Engineer Experience) 开发者体验/工程师体验
+- DevOps , SRE ,  self-service API 
+
 ## Website 站点
 -  Platform Engineering https://platformengineering.org
+-  Internal Developer Platform https://internaldeveloperplatform.org
 
 ## Event/Conf  活动/会议
 - PlatformCon https://platformcon.com 

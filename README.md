@@ -51,5 +51,5 @@ A awesome list of Platform Engineering
 ## Other
 - TODO 
 
-# Welcome to contribute by issue ! 
+# Welcome to contribute by issue & PR ! 
 

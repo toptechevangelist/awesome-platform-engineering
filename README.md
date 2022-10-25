@@ -6,7 +6,9 @@ A awesome list of Platform Engineering
 - PET : Platform Engineering Team 平台工程团队
 - IDP : Internal Developer Platform 内部开发者平台 
 - DX/DevX : Developer Experience (also EX: Engineer Experience) 开发者体验/工程师体验
-- DevOps , SRE ,  self-service API 
+- self-service API 自服务API
+- DevOps 开发运维一体化
+- SRE 站点可靠性工程
 
 ## Website 站点
 -  Platform Engineering https://platformengineering.org

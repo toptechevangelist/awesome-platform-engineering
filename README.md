@@ -52,10 +52,11 @@ A awesome list of Platform Engineering
 
 
 ## Team & People 团队与个人
-- TODO 
+-  Platform Engineering https://platformengineering.org/
+-  Humanitec https://humanitec.com/blog
+-  zlifecycle  https://www.zlifecycle.com/blog
+-  AmbassadorLabs  https://blog.getambassador.io/ 
 
-## Other
-- TODO 
 
 ## Chinese Article and More 
 - 2021-6-18 Ulrich Kautz （翻译 Sambodhi）： [论平台工程的价值](https://mp.weixin.qq.com/s/-reSBm7YwZwwDszAxHukew)

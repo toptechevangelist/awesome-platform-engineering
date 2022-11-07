@@ -19,6 +19,7 @@ A awesome list of Platform Engineering
 
 
 ## Blog 博客
+- Mia-Platform  https://blog.mia-platform.eu/en
 - Humanitec  https://humanitec.com/blog
 - zlifecycle  https://www.zlifecycle.com/blog
 - AmbassadorLabs  https://blog.getambassador.io
@@ -53,6 +54,7 @@ A awesome list of Platform Engineering
 
 ## Team & People 团队与个人
 -  Platform Engineering https://platformengineering.org/
+-  Mia-Platform https://blog.mia-platform.eu/en
 -  Humanitec https://humanitec.com/blog
 -  zlifecycle  https://www.zlifecycle.com/blog
 -  AmbassadorLabs  https://blog.getambassador.io/ 

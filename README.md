@@ -31,6 +31,15 @@ A awesome list of Platform Engineering
 - Medium https://medium.com/tag/platform-engineering 
 - dev.to https://dev.to/search?q=platform%20engineering 
 
+
+## Team & People 团队与个人
+-  Platform Engineering https://platformengineering.org/
+-  Mia-Platform https://blog.mia-platform.eu/en
+-  Humanitec https://humanitec.com/blog
+-  zlifecycle  https://www.zlifecycle.com/blog
+-  AmbassadorLabs  https://blog.getambassador.io/ 
+
+
 ## Article 文章
 - 2017-7-6 [Netflix Technology Blog： Netflix Platform Engineering — we’re just getting started](https://netflixtechblog.com/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7)
 - 2018-9-29 [Kenichi Shibata ： How to build a platform team now! the secrets to successful engineering](https://hackernoon.com/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
@@ -51,13 +60,6 @@ A awesome list of Platform Engineering
 - 2022-10-15 Romaric Philogène： [The 10 Platform Engineering Tools To Use in 2022 ](https://medium.com/@rphilogene/the-10-platform-engineering-tools-to-use-in-2022-c2cbf2561f77)
 - 2022-10-18 Mia-Platform：  [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre)
 
-
-## Team & People 团队与个人
--  Platform Engineering https://platformengineering.org/
--  Mia-Platform https://blog.mia-platform.eu/en
--  Humanitec https://humanitec.com/blog
--  zlifecycle  https://www.zlifecycle.com/blog
--  AmbassadorLabs  https://blog.getambassador.io/ 
 
 
 ## Chinese Article and More 

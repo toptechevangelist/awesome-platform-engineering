@@ -10,15 +10,18 @@ A awesome list of Platform Engineering
 - DevOps 开发运维一体化
 - SRE 站点可靠性工程
 
-## Website 站点
--  Platform Engineering https://platformengineering.org
--  Internal Developer Platform https://internaldeveloperplatform.org
 
-## Event/Conf  活动/会议
+## Solution/Project 
+- https://humanitec.com/   Powering your Internal Developer Platform
+- https://backstage.io/  An open platform for building developer portals
+
+## Conf/Event  会议/活动
 - PlatformCon https://platformcon.com 
 
 
-## Blog 博客
+## Blog/Website 博客/站点
+-  Platform Engineering https://platformengineering.org
+-  Internal Developer Platform https://internaldeveloperplatform.org
 - Mia-Platform  https://blog.mia-platform.eu/en
 - Humanitec  https://humanitec.com/blog
 - zlifecycle  https://www.zlifecycle.com/blog

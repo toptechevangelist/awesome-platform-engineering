@@ -13,6 +13,7 @@ A awesome list of Platform Engineering
 
 
 ## Solution/Project 
+- https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
 - https://humanitec.com/   Powering your Internal Developer Platform
 - https://backstage.io/  An open platform for building developer portals
 
@@ -74,7 +75,7 @@ A awesome list of Platform Engineering
 - 2022-10-18 Mia-Platform：  [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre)
 - 2022-10-27 [Internal Developer Platform (IDP) benefits and its key components](https://www.xenonstack.com/insights/internal-developer-platform)
 - 2022 [zlifecycle : Platform Engineering: Using it to Gain Competitive Advantage](https://www.zlifecycle.com/blog/platform-engineering)
-
+- 2022-11-24 Mia-Platform: [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution)
 
 
 

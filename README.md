@@ -1,5 +1,5 @@
 # awesome-platform-engineering 平台工程列表
-A awesome list of Platform Engineering 
+An awesome list of Platform Engineering 
 
 ## Table of Content
 1. [Concept 概念/术语](#1)

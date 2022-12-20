@@ -19,6 +19,7 @@ A awesome list of Platform Engineering
 
 ## Conf/Event  会议/活动
 - PlatformCon https://platformcon.com 
+  - PlatformCon 2022 Talks: Stories, Design, Tech, Culture about Platform
 
 
 ## Blog/Website 博客/站点
@@ -38,6 +39,7 @@ A awesome list of Platform Engineering
 - Twitter https://twitter.com/search?q=platform%20engineering&src=typed_query&f=live 
 - Medium https://medium.com/tag/platform-engineering 
 - dev.to https://dev.to/search?q=platform%20engineering 
+- InfoQ Topic https://www.infoq.com/platformengineering/ 
 
 
 ## Team & People 团队与个人
@@ -59,6 +61,8 @@ A awesome list of Platform Engineering
 - 2021-3-28 Nicki Watt ： [Platform Engineering as a (Community) Service ](https://www.infoq.com/articles/platform-engineering-as-community-service/)
 - 2021-3-11 Ulrich Kautz ： [On the Value of Platform Engineering  （下文有中文翻译）](https://ulrichkautz.com/posts/2021-03-11_value-of-platforming-engineering/)
 - 2021-8-3 Team Liatrio [What Is Platform Engineering? The Concept Behind the Term](https://www.liatrio.com/blog/what-is-platform-engineering-the-concept-behind-the-term)
+- 2021-12-22 [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities)
+  - Interview https://www.infoq.com/news/2021/06/engineering-organization 
 - 2022-3-31 [Is Platform Engineering the New DevOps or SRE?](https://blog.getambassador.io/is-platform-engineering-the-new-devops-or-sre-472ed97a1885)
 - 2022-5-6 Luca Galante： [DevOps vs. SRE vs. Platform Engineering? The gaps might be smaller than you think ](https://humanitec.com/blog/sre-vs-devops-vs-platform-engineering)
 - 2022-6-9 Seaplane： [The Startup’s Guide to Platform Engineering](https://www.seaplane.io/blog/the-startups-guide-to-platform-engineering)
@@ -75,8 +79,14 @@ A awesome list of Platform Engineering
 - 2022-10-18 Mia-Platform：  [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre)
 - 2022-10-27 [Internal Developer Platform (IDP) benefits and its key components](https://www.xenonstack.com/insights/internal-developer-platform)
 - 2022 [zlifecycle : Platform Engineering: Using it to Gain Competitive Advantage](https://www.zlifecycle.com/blog/platform-engineering)
+- 2022-11- 21 [The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/)
 - 2022-11-24 Mia-Platform: [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution)
-
+- 2022-11-29 Platform Engineering:
+  - Part 1 is about [WHY the evolution of developer cognitive load is giving Platform Engineering so much traction](https://medium.com/agorapulse-stories/platform-engineering-part-1-why-the-evolution-of-developer-cognitive-load-9f36f5cc2888)
+  - Part 2 is about [WHAT Platform Engineering is, and WHAT goals a Platform Engineering team should have](https://medium.com/agorapulse-stories/platform-engineering-part-2-what-are-the-goals-of-a-platform-engineering-team-29aa439dae7d)
+  - Part 3 is about [WHEN & HOW to build an Internal Developer Platform](https://medium.com/agorapulse-stories/platform-engineering-part-3-when-how-to-build-an-internal-developer-platform-cfb22efcca34)
+- 2022-12-13 Daniel Bryant : [Platform Engineering in 2023: Dev First, Collaboration and APIs](https://thenewstack.io/platform-engineering-in-2023-dev-first-collaboration-and-apis)
+- 2022-12-14 [Platform Engineering Needs a Prescriptive Roadmap: a Conversation with Nigel Kersten](https://www.infoq.com/articles/platform-engineering-roadmap)
 
 
 ## Chinese Article 中文文章

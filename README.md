@@ -6,12 +6,13 @@ An awesome list of Platform Engineering
 2. [Solution/project 解决方案/项目](#2)
 3. [Conf/Event 会议/活动](#3)
 4. [Community 社区](#4)
-5. [Team & People 团队与个人](#5)
-6. [Channel/TAG 频道/标签](#6)
-7. [Blog/Website 博客/站点](#7)
-8. [Article 文章](#8)
-9. [Chinese Article 中文文章](#9)
-10. [Contribution 贡献](#10)
+5. [Books 圖書(#5)
+6. [Team & People 团队与个人](#6)
+7. [Channel/TAG 频道/标签](#7)
+8. [Blog/Website 博客/站点](#8)
+9. [Article 文章](#9)
+10. [Chinese Article 中文文章](#10)
+11. [Contribution 贡献](#11)
 
 
 ## <span id="1">1. Concept 概念/术语 </span>
@@ -37,14 +38,17 @@ An awesome list of Platform Engineering
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/
 
-## <span id="5">5. Team & People 团队与个人</span>
+## <span id="5">5. Books 圖書</span>
+-  Building Software Platforms https://leanpub.com/software-platforms/
+
+## <span id="6">6. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
 -  Humanitec https://humanitec.com/blog
 -  zlifecycle  https://www.zlifecycle.com/blog
 -  AmbassadorLabs  https://blog.getambassador.io/ 
 
 
-## <span id="6">6. Channel/TAG 频道/标签</span>
+## <span id="7">7. Channel/TAG 频道/标签</span>
 - Youtube https://www.youtube.com/results?search_query=platform+engineering+ 
 - Twitter https://twitter.com/search?q=platform%20engineering&src=typed_query&f=live 
 - Medium https://medium.com/tag/platform-engineering 
@@ -52,7 +56,7 @@ An awesome list of Platform Engineering
 - InfoQ Topic https://www.infoq.com/platformengineering/ 
 
 
-## <span id="7">7. Blog/Website 博客/站点</span>
+## <span id="8">8. Blog/Website 博客/站点</span>
 - Platform Engineering https://platformengineering.org  
   - Community https://community.platformengineering.org/ 
   - Tooling https://platformengineering.org/platform-tooling 
@@ -65,7 +69,7 @@ An awesome list of Platform Engineering
 - Netflix Tech Blog https://netflixtechblog.com
 
 
-## <span id="8">8. Article 文章</span>
+## <span id="9">9. Article 文章</span>
 - 2015-9-28  [“Let a 1,000 Flowers Bloom. Then RIP 999 of them out by the roots” by Peter Seibel (Twitter)](http://gigamonkeys.com/flowers/)
 - 2017-3-29 [Platform engineering product teams in the ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
 - 2017-7-6 [Netflix Technology Blog： Netflix Platform Engineering — we’re just getting started](https://netflixtechblog.com/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7)
@@ -104,7 +108,7 @@ An awesome list of Platform Engineering
 - 2022-12-14 [Platform Engineering Needs a Prescriptive Roadmap: a Conversation with Nigel Kersten](https://www.infoq.com/articles/platform-engineering-roadmap)
 
 
-## <span id="9">9. Chinese Article 中文文章</span>
+## <span id="10">10. Chinese Article 中文文章</span>
 
 - 2021-5-8 [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00) [InfoWorld 英文原文](https://www.infoworld.com/article/3610335/what-is-an-internal-developer-platform-paas-done-your-way.html)
 - 2021-6-1 Ulrich Kautz （翻译 Sambodhi）： [论平台工程的价值](https://www.infoq.cn/article/IKV0beLrg2fsFlm61wmg)
@@ -118,7 +122,7 @@ An awesome list of Platform Engineering
 - 2022-11-1  laofo [研发效能｜DevOps 已死平台工程永存带来的焦虑](https://xie.infoq.cn/article/8024b2e2d1b53d255f9a76144)
 
 
-# <span id="10">10. Contribution 贡献</span>
+# <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  
 
 

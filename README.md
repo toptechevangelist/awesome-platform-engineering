@@ -6,7 +6,7 @@ An awesome list of Platform Engineering
 2. [Solution/project 解决方案/项目](#2)
 3. [Conf/Event 会议/活动](#3)
 4. [Community 社区](#4)
-5. [Books 圖書(#5)
+5. [Books 图书](#5)
 6. [Team & People 团队与个人](#6)
 7. [Channel/TAG 频道/标签](#7)
 8. [Blog/Website 博客/站点](#8)
@@ -38,7 +38,7 @@ An awesome list of Platform Engineering
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/
 
-## <span id="5">5. Books 圖書</span>
+## <span id="5">5. Books 图书</span>
 -  Building Software Platforms https://leanpub.com/software-platforms/
 
 ## <span id="6">6. Team & People 团队与个人</span>

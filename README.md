@@ -31,15 +31,20 @@ An awesome list of Platform Engineering
 - https://humanitec.com/   Powering your Internal Developer Platform
 - https://backstage.io/  An open platform for building developer portals
 
+
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 
   - PlatformCon 2022 Talks: Stories, Design, Tech, Culture about Platform
 
+
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/
 
+
 ## <span id="5">5. Books 图书</span>
 -  Building Software Platforms https://leanpub.com/software-platforms/
+- Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
+
 
 ## <span id="6">6. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
@@ -99,6 +104,7 @@ An awesome list of Platform Engineering
 - 2022-10-27 [Internal Developer Platform (IDP) benefits and its key components](https://www.xenonstack.com/insights/internal-developer-platform)
 - 2022 [zlifecycle : Platform Engineering: Using it to Gain Competitive Advantage](https://www.zlifecycle.com/blog/platform-engineering)
 - 2022-11- 21 [The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/)
+- 2022-11-22 Randy Shoup (VP of Engineering and Chief Architect at eBay): [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities)
 - 2022-11-24 Mia-Platform: [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution)
 - 2022-11-29 Platform Engineering:
   - Part 1 is about [WHY the evolution of developer cognitive load is giving Platform Engineering so much traction](https://medium.com/agorapulse-stories/platform-engineering-part-1-why-the-evolution-of-developer-cognitive-load-9f36f5cc2888)
@@ -119,9 +125,10 @@ An awesome list of Platform Engineering
 - 2022-10-18 徐磊 [聊聊平台工程](https://mp.weixin.qq.com/s/7imERbIC2PFBuksVW-CZ7g)
 - 2022-10-21 朵晓东 [蚂蚁规模化平台工程实践两年多，我们学到了什么](https://www.infoq.cn/article/fL9fHtbagvxXdPxUopgk)
 - 2022-10-22 [软件工程的第一性原理](https://www.smartide.cn/zh/blog/2022-1022-software-engineering/)
-- 2022-10-25 平台工程 [微服务DevOps 进化还是花哨的重命名](https://mp.weixin.qq.com/s/DOHfKJaKC3pC9bQDTKDHUw)
+- 2022-10-25 软件架构解决之道：[平台工程：微服务DevOps 进化还是花哨的重命名](https://mp.weixin.qq.com/s/DOHfKJaKC3pC9bQDTKDHUw)
 - 2022-11-1  laofo [研发效能｜DevOps 已死平台工程永存带来的焦虑](https://xie.infoq.cn/article/8024b2e2d1b53d255f9a76144)
-
+- 2022-11-14 纳海、孤弋@阿里云云原生: [关于平台工程的开发者工具链，你还想加点啥？](https://mp.weixin.qq.com/s/dba1GNZmM7FjfmaOgemlMg)
+- 2023-01-04 K8S技术社区：[平台工程解Kubernetes之痛](https://mp.weixin.qq.com/s/W1hYKA8ZqkK0YWNd3a7w3g)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

@@ -30,6 +30,7 @@ An awesome list of Platform Engineering
 - https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
 - https://humanitec.com/   Powering your Internal Developer Platform
 - https://backstage.io/  An open platform for building developer portals
+- https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
@@ -51,6 +52,7 @@ An awesome list of Platform Engineering
 -  Humanitec https://humanitec.com/blog
 -  zlifecycle  https://www.zlifecycle.com/blog
 -  AmbassadorLabs  https://blog.getambassador.io/ 
+-  Devtron https://devtron.ai/blog
 
 
 ## <span id="7">7. Channel/TAG 频道/标签</span>
@@ -72,6 +74,7 @@ An awesome list of Platform Engineering
 - zlifecycle https://www.zlifecycle.com/blog
 - AmbassadorLabs https://blog.getambassador.io
 - Netflix Tech Blog https://netflixtechblog.com
+- Devtron https://devtron.ai/blog
 
 
 ## <span id="9">9. Article 文章</span>

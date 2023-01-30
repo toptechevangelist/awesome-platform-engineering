@@ -18,7 +18,7 @@ An awesome list of Platform Engineering
 ## <span id="1">1. Concept 概念/术语 </span>
 - PE : Platform Engineering 平台工程
 - PET : Platform Engineering Team 平台工程团队
-- IDP : Internal Developer Platform 内部开发者平台 
+- IDP : Internal Developer Platform/Portal 内部开发者平台/门户
 - DX/DevX : Developer Experience (also EX: Engineer Experience) 开发者体验/工程师体验
 - self-service API 自服务API
 - DevOps 开发运维一体化
@@ -33,6 +33,10 @@ An awesome list of Platform Engineering
 - https://backstage.io/  An open platform for building developer portals
 - https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
 - https://www.getport.io/ A No-Code Developer Portal 
+- https://roadie.io/ Roadie:  SaaS Backstage. Simple, safe, and more powerful
+- https://www.zymr.com/product-platform-engineering-services ZYMR: WE EXCEL AT PLATFORM ENGINEERING   
+- https://www.cycloid.io/platform-engineering cycloid :  Platform Engineering is DevOps with an action plan  
+- https://cto.ai/platform  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
@@ -77,13 +81,17 @@ An awesome list of Platform Engineering
 - AmbassadorLabs https://blog.getambassador.io
 - Netflix Tech Blog https://netflixtechblog.com
 - Devtron https://devtron.ai/blog
+- CTO.ai https://cto.ai/blog/
 
 
 ## <span id="9">9. Article 文章</span>
+- 2011-8-17 [What is "Platform Engineering"?](https://diff.wikimedia.org/2011/08/17/what-is-platform-engineering/ )
 - 2015-9-28  [“Let a 1,000 Flowers Bloom. Then RIP 999 of them out by the roots” by Peter Seibel (Twitter)](http://gigamonkeys.com/flowers/)
 - 2017-3-29 [Platform engineering product teams in the ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
 - 2017-7-6 [Netflix Technology Blog： Netflix Platform Engineering — we’re just getting started](https://netflixtechblog.com/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7)
 - 2018-9-29 [Kenichi Shibata ： How to build a platform team now! the secrets to successful engineering](https://hackernoon.com/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
+- 2019-4-5 [The Platform Engineer of the Future](https://cloudytechnologist.com/2019/04/05/the-platform-engineer-of-the-future/ )
+- 2019-4-12 [Platform engineering 101](https://www.slideshare.net/SanderKnape/platform-engineering-101)
 - 2020-2-13 SE Daily ： [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 - 2020-8-13  Wichon (Luis Alonzo)： [Platform Engineering ](https://wichon.com/platform-engineering)
 - 2021-3-15 [How to build an internal developer platform, from those who have done it](https://www.infoworld.com/article/3611369/how-to-build-an-internal-developer-platform-from-those-who-have-done-it.html)
@@ -94,6 +102,7 @@ An awesome list of Platform Engineering
 - 2021-12-22 [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities)
   - Interview https://www.infoq.com/news/2021/06/engineering-organization 
 - 2022-1-3 [From Kubernetes to PaaS to Developer Control Planes](https://thenewstack.io/from-kubernetes-to-paas-to-developer-control-planes/)
+- 2022-2-24 [The Rise of the Developer Control Plane and Why its Great for Developer Culture](https://cto.ai/blog/what-is-a-developer-control-plane/)
 - 2022-3-31 [Is Platform Engineering the New DevOps or SRE?](https://blog.getambassador.io/is-platform-engineering-the-new-devops-or-sre-472ed97a1885)
 - 2022-5-6 Luca Galante： [DevOps vs. SRE vs. Platform Engineering? The gaps might be smaller than you think ](https://humanitec.com/blog/sre-vs-devops-vs-platform-engineering)
 - 2022-6-9 Seaplane： [The Startup’s Guide to Platform Engineering](https://www.seaplane.io/blog/the-startups-guide-to-platform-engineering)

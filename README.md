@@ -37,6 +37,7 @@ An awesome list of Platform Engineering
 - https://www.zymr.com/product-platform-engineering-services ZYMR: WE EXCEL AT PLATFORM ENGINEERING   
 - https://www.cycloid.io/platform-engineering cycloid :  Platform Engineering is DevOps with an action plan  
 - https://cto.ai/platform  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
+- https://github.com/syntasso/kratix  Kratix is a framework for building Platform-as-a-Product
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
@@ -130,6 +131,7 @@ An awesome list of Platform Engineering
 - 2022-12-13 Daniel Bryant : [Platform Engineering in 2023: Dev First, Collaboration and APIs](https://thenewstack.io/platform-engineering-in-2023-dev-first-collaboration-and-apis)
 - 2022-12-14 [Platform Engineering Needs a Prescriptive Roadmap: a Conversation with Nigel Kersten](https://www.infoq.com/articles/platform-engineering-roadmap)
 - 2022-12-21 [Platform Engineering is Not New and DevOps is Not Dead](https://sdtimes.com/devops/platform-engineering-is-not-new-and-devops-is-not-dead/)
+- 2023-1-6 [The 12 Platform Challenges - recap](https://www.syntasso.io/post/the-12-platform-challenges-recap)
 - 2023-01-11 James Walker [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)
 - 2023-1-26 [Internal Developer Portals Can Do More than You Think](https://thenewstack.io/internal-developer-portals-can-do-more-than-you-think/)
 

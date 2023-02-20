@@ -28,6 +28,7 @@ An awesome list of Platform Engineering
 
 
 ## <span id="2">2. Solution/Project 解决方案/项目</span>
+- https://www.argonaut.dev/ Deploy apps and infrastructure on your cloud in minutes
 - https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
 - https://humanitec.com/   Powering your Internal Developer Platform
 - https://backstage.io/  An open platform for building developer portals

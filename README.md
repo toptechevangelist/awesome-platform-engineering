@@ -108,6 +108,7 @@ An awesome list of Platform Engineering
 - 2022-3-31 [Is Platform Engineering the New DevOps or SRE?](https://blog.getambassador.io/is-platform-engineering-the-new-devops-or-sre-472ed97a1885)
 - 2022-5-6 Luca Galante： [DevOps vs. SRE vs. Platform Engineering? The gaps might be smaller than you think ](https://humanitec.com/blog/sre-vs-devops-vs-platform-engineering)
 - 2022-6-9 Seaplane： [The Startup’s Guide to Platform Engineering](https://www.seaplane.io/blog/the-startups-guide-to-platform-engineering)
+- 202206-10 PlatformCon2022：[How Netflix unified their engineering experience with a federated platform console](https://platformengineering.org/talks-library/netflix-platform-console-to-unify-engineering-experience)
 - 2022-6-22 Zohar Einy： [Platform Engineering: what is it and why do you need it?](https://www.getport.io/blog/platform-engineering)
 - 2022-7-21 Lambros Charissis： [Platform Engineering KPIs ](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)
 - 2022-7-26 Mia-Platform： [Platform Engineering 101: all you need to know to get started  ](https://blog.mia-platform.eu/en/platform-engineering-101-all-you-need-to-know-to-get-started)
@@ -152,7 +153,9 @@ An awesome list of Platform Engineering
 - 2023-01-03 [平台工程中认知负荷的挑战](https://www.infoq.cn/article/doz4HmWsaZwH4hi6FqXX)
 - 2023-01-04 K8S技术社区：[平台工程解Kubernetes之痛](https://mp.weixin.qq.com/s/W1hYKA8ZqkK0YWNd3a7w3g)
 - 2023-01-13 [DevOps 缺少定义，平台工程需要指导性路线图](https://www.infoq.cn/article/GaUyduw3FQ0dHXu9Druq)
-
+- 2023-2-15 [超越DevOps的平台工程：云计算背景下的平台战略和实施](https://insights.thoughtworks.cn/beyond-devops/)
+- 2023-3-5 [平台工程的 2022：助力云原生重构研发组织文化与组织架构](https://mp.weixin.qq.com/s/3-IxgQ6oozsBKE-redQVPw)
+- 2023-3-11 [Netflix 是如何利用联合平台控制台统一工程体验的](https://www.infoq.cn/article/3sYe2eD6ilfFyBWRt1fL)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

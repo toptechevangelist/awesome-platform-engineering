@@ -139,7 +139,7 @@ An awesome list of Platform Engineering
 
 ## <span id="10">10. Chinese Article 中文文章</span>
 
-- 2021-5-8 [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00) [InfoWorld 英文原文](https://www.infoworld.com/article/3610335/what-is-an-internal-developer-platform-paas-done-your-way.html)
+- 2021-5-8 翻译 [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00) [InfoWorld 英文原文](https://www.infoworld.com/article/3610335/what-is-an-internal-developer-platform-paas-done-your-way.html)
 - 2021-6-1 Ulrich Kautz （翻译 Sambodhi）： [论平台工程的价值](https://www.infoq.cn/article/IKV0beLrg2fsFlm61wmg)
 - 2022-2-11 [建立云原生组织的8个要素](https://www.modb.pro/db/394258)
 - 2022-8-25 InfoQ编译 ： [“扯淡的DevOps，我们开发者根本不想做运维！”](https://www.163.com/dy/article/HFKER3AL0511D3QS.html)
@@ -150,12 +150,12 @@ An awesome list of Platform Engineering
 - 2022-10-25 软件架构解决之道：[平台工程：微服务DevOps 进化还是花哨的重命名](https://mp.weixin.qq.com/s/DOHfKJaKC3pC9bQDTKDHUw)
 - 2022-11-1  laofo [研发效能｜DevOps 已死平台工程永存带来的焦虑](https://xie.infoq.cn/article/8024b2e2d1b53d255f9a76144)
 - 2022-11-14 纳海、孤弋@阿里云云原生: [关于平台工程的开发者工具链，你还想加点啥？](https://mp.weixin.qq.com/s/dba1GNZmM7FjfmaOgemlMg)
-- 2023-01-03 [平台工程中认知负荷的挑战](https://www.infoq.cn/article/doz4HmWsaZwH4hi6FqXX)
+- 2023-01-03 翻译 [平台工程中认知负荷的挑战](https://www.infoq.cn/article/doz4HmWsaZwH4hi6FqXX)
 - 2023-01-04 K8S技术社区：[平台工程解Kubernetes之痛](https://mp.weixin.qq.com/s/W1hYKA8ZqkK0YWNd3a7w3g)
-- 2023-01-13 [DevOps 缺少定义，平台工程需要指导性路线图](https://www.infoq.cn/article/GaUyduw3FQ0dHXu9Druq)
+- 2023-01-13 翻译 [DevOps 缺少定义，平台工程需要指导性路线图](https://www.infoq.cn/article/GaUyduw3FQ0dHXu9Druq)
 - 2023-2-15 [超越DevOps的平台工程：云计算背景下的平台战略和实施](https://insights.thoughtworks.cn/beyond-devops/)
 - 2023-3-5 [平台工程的 2022：助力云原生重构研发组织文化与组织架构](https://mp.weixin.qq.com/s/3-IxgQ6oozsBKE-redQVPw)
-- 2023-3-11 [Netflix 是如何利用联合平台控制台统一工程体验的](https://www.infoq.cn/article/3sYe2eD6ilfFyBWRt1fL)
+- 2023-3-11 翻译 [Netflix 是如何利用联合平台控制台统一工程体验的](https://www.infoq.cn/article/3sYe2eD6ilfFyBWRt1fL)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

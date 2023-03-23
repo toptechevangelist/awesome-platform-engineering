@@ -46,6 +46,7 @@ An awesome list of Platform Engineering
 - https://cto.ai/platform  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
 - https://github.com/syntasso/kratix  Kratix is a framework for building Platform-as-a-Product
 - https://score.dev One easy way to configure all your workload. Everywhere.
+- https://kubevela.io/ Make shipping applications more enjoyable. 
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>

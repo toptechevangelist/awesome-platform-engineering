@@ -22,9 +22,15 @@ An awesome list of Platform Engineering
 - DX/DevX : Developer Experience (also EX: Engineer Experience) 开发者体验/工程师体验
 - self-service API 自服务API
 - DevOps 开发运维一体化
-- SRE 站点可靠性工程
+- SRE : Site Reliability Engineering 站点可靠性工程
+- PaaS : Platform as a Service 平台即服务 
 - Cloud Native 云原生 
-- Developer Control Plane 开发者控制面 
+- DCP : Developer Control Plane 开发者控制面 
+- IaC : Infrastructure as Code 基础设施即代码
+- PaaP : Platform as a Product 平台即产品 
+- DCM : Dynamic Configuration Management 动态配置管理 
+- Cognitive Load 认知负荷
+- Knowledge Transfer 知识迁移 
 
 
 ## <span id="2">2. Solution/Project 解决方案/项目</span>
@@ -39,6 +45,7 @@ An awesome list of Platform Engineering
 - https://www.cycloid.io/platform-engineering cycloid :  Platform Engineering is DevOps with an action plan  
 - https://cto.ai/platform  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
 - https://github.com/syntasso/kratix  Kratix is a framework for building Platform-as-a-Product
+- https://score.dev One easy way to configure all your workload. Everywhere.
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>

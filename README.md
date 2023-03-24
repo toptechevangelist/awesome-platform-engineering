@@ -52,7 +52,7 @@ An awesome list of Platform Engineering
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 
   - PlatformCon 2022 Talks: Stories, Design, Tech, Culture about Platform
-  - PlatformCon 20323 Tracks: Stories, Tech, Blueprints, Culture, Impact 
+  - PlatformCon 2023 Tracks: Stories, Tech, Blueprints, Culture, Impact 
 
 
 ## <span id="4">4. Community 社区</span>

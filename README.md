@@ -29,6 +29,7 @@ An awesome list of Platform Engineering
 - IaC : Infrastructure as Code 基础设施即代码
 - PaaP : Platform as a Product 平台即产品 
 - DCM : Dynamic Configuration Management 动态配置管理 
+- Team Topologies 团队拓扑 
 - Cognitive Load 认知负荷
 - Knowledge Transfer 知识迁移 
 
@@ -60,7 +61,9 @@ An awesome list of Platform Engineering
 
 
 ## <span id="5">5. Books 图书</span>
--  Building Software Platforms https://leanpub.com/software-platforms/
+- [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton and Manuel Pais was published in September 2019 by IT Revolution Press.
+- [Remote Team Interactions Workbook](https://teamtopologies.com/workbook) by Matthew Skelton and Manuel Pais will be published in January 2022 by IT Revolution Press
+- [Building Software Platforms](https://leanpub.com/software-platforms)
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
 
 

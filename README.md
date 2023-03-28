@@ -34,7 +34,8 @@ An awesome list of Platform Engineering
 - Knowledge Transfer 知识迁移 
 
 
-## <span id="2">2. Solution/Project 解决方案/项目</span>
+## <span id="2">2. Specification/Solution/Project 规范/解决方案/项目</span>
+- https://oam.dev/ OAM ~ One Application Model: An open model for defining cloud native apps.
 - https://www.argonaut.dev/ Deploy apps and infrastructure on your cloud in minutes
 - https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
 - https://humanitec.com/   Powering your Internal Developer Platform

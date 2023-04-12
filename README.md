@@ -18,6 +18,7 @@ An awesome list of Platform Engineering
 ## <span id="1">1. Concept 概念/术语 </span>
 - PE : Platform Engineering 平台工程
 - PET : Platform Engineering Team 平台工程团队
+- PPM : Platform Product Manager 平台产品经理
 - IDP : Internal Developer Platform/Portal 内部开发者平台/门户
 - DX/DevX : Developer Experience (also EX: Engineer Experience) 开发者体验/工程师体验
 - self-service API 自服务API
@@ -32,6 +33,7 @@ An awesome list of Platform Engineering
 - Team Topologies 团队拓扑 
 - Cognitive Load 认知负荷
 - Knowledge Transfer 知识迁移 
+- TVP : Thinnest viable platform 最小可用平台
 
 
 ## <span id="2">2. Specification/Solution/Project 规范/解决方案/项目</span>
@@ -149,6 +151,7 @@ An awesome list of Platform Engineering
 - 2023-1-6 [The 12 Platform Challenges - recap](https://www.syntasso.io/post/the-12-platform-challenges-recap)
 - 2023-01-11 James Walker [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)
 - 2023-1-26 [Internal Developer Portals Can Do More than You Think](https://thenewstack.io/internal-developer-portals-can-do-more-than-you-think/)
+- 2023-4-10 [CNCF Platforms White Paper](https://appdelivery.cncf.io/whitepapers/platforms/)
 
 ## <span id="10">10. Chinese Article 中文文章</span>
 

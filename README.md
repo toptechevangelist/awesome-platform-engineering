@@ -51,6 +51,7 @@ An awesome list of Platform Engineering
 - https://github.com/syntasso/kratix  Kratix is a framework for building Platform-as-a-Product
 - https://score.dev One easy way to configure all your workload. Everywhere.
 - https://kubevela.io/ Make shipping applications more enjoyable. 
+- https://www.qovery.com/ Deliver Self-Service Infrastructure Faster
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>

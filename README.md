@@ -69,7 +69,7 @@ An awesome list of Platform Engineering
 - [Remote Team Interactions Workbook](https://teamtopologies.com/workbook) by Matthew Skelton and Manuel Pais will be published in January 2022 by IT Revolution Press
 - [Building Software Platforms](https://leanpub.com/software-platforms)
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
-
+- eBook : [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
 
 ## <span id="6">6. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
@@ -138,7 +138,6 @@ An awesome list of Platform Engineering
 - 2022-10-18 Mia-Platform：  [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre)
 - 2022-10-27 [Internal Developer Platform (IDP) benefits and its key components](https://www.xenonstack.com/insights/internal-developer-platform)
 - 2022 [zlifecycle : Platform Engineering: Using it to Gain Competitive Advantage](https://www.zlifecycle.com/blog/platform-engineering)
-- 2022-11-14 [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
 - 2022-11- 21 [The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/)
 - 2022-11-22 Randy Shoup (VP of Engineering and Chief Architect at eBay): [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities)
 - 2022-11-24 Mia-Platform: [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution)

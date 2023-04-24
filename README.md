@@ -130,7 +130,7 @@ An awesome list of Platform Engineering
 - 2022-7-26 Mia-Platform： [Platform Engineering 101: all you need to know to get started  ](https://blog.mia-platform.eu/en/platform-engineering-101-all-you-need-to-know-to-get-started)
 - 2022-8-10 Gartner: [What’s New in the 2022 Gartner Hype Cycle for Emerging Technologies](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)
 - 2022-9-9 [Cari Liebenberg  How to Design an Internal Developer Platform](https://blog.container-solutions.com/how-to-design-an-internal-developer-platform)
-- 2022-9-21 [Qovery： Platform Engineering: The Definitive Guide](https://loft.sh/blog/platform-engineering-the-definitive-guide)
+- 2022-9-21 [Loft： Platform Engineering: The Definitive Guide](https://loft.sh/blog/platform-engineering-the-definitive-guide)
 - 2022-9-22 Aeris Stewart：[DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/)
 - 2022-9-28 [Good Platform Engineering: What It Is and How to Make It Work For You](https://www.contino.io/insights/platform-engineering)  [Platform Engineering: Creating your Internal Developer Platform (Part 2)](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6) 
 - 2022-10-5 Gartner: [What Is Platform Engineering? ](https://www.gartner.com/en/articles/what-is-platform-engineering)

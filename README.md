@@ -61,6 +61,7 @@ An awesome list of Platform Engineering
 
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/
+- InfoQ WeChat Group 微信群组：InfoQ平台工程技术交流群 （添加微信 nodexy 备注“平台工程交流”获邀加入）
 
 
 ## <span id="5">5. Books 图书</span>
@@ -172,10 +173,11 @@ An awesome list of Platform Engineering
 - 2023-2-15 Thoughtworks 洞见：[超越DevOps的平台工程：云计算背景下的平台战略和实施](https://insights.thoughtworks.cn/beyond-devops/)
 - 2023-3-5 [平台工程的 2023：助力云原生重构研发组织文化与组织架构](https://www.infoq.cn/article/5JuuFYFFNH0WT2aDJgA3)
 - 2023-3-11 翻译 [Netflix 是如何利用联合平台控制台统一工程体验的](https://www.infoq.cn/article/3sYe2eD6ilfFyBWRt1fL)
+- 2023-3-01 InfoQ 专题：[云原生趋势下的平台工程](https://www.infoq.cn/theme/183)
+- 2023-4-20 翻译 [IDP内部开发者门户权威指南](https://mp.weixin.qq.com/s/cpqsEw2o-5p2nxH7Ic__4w)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  
-
 
 
 

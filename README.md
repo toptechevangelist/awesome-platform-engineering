@@ -82,12 +82,15 @@ An awesome list of Platform Engineering
 -  Devtron https://devtron.ai/blog
 
 
-## <span id="7">7. Channel/TAG 频道/标签</span>
-- Youtube https://www.youtube.com/results?search_query=platform+engineering+ 
-- Twitter https://twitter.com/search?q=platform%20engineering&src=typed_query&f=live 
-- Medium https://medium.com/tag/platform-engineering 
+## <span id="7">7. Channel/TAG/List 频道/标签/列表</span>
+- Youtube Channel https://www.youtube.com/results?search_query=platform+engineering+ 
+- Twitter TAG https://twitter.com/search?q=platform%20engineering&src=typed_query&f=live 
+- Medium TAG https://medium.com/tag/platform-engineering 
 - dev.to https://dev.to/search?q=platform%20engineering 
 - InfoQ Topic https://www.infoq.com/platformengineering/ 
+- [Platform Tooling - Explore the right tools to build your Internal Developer Platform](https://platformengineering.org/platform-tooling)
+- [Platform tooling to build your Internal Developer Platform](https://internaldeveloperplatform.org/platform-tooling/)
+- [Curated list of tools and resources for Platform Engineering](https://hospodarets.com/awesome-platform-engineering/)
 
 
 ## <span id="8">8. Blog/Website 博客/站点</span>

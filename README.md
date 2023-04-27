@@ -65,12 +65,14 @@ An awesome list of Platform Engineering
 - InfoQ WeChat Group 微信群组：InfoQ平台工程技术交流群 （添加微信 nodexy 备注“平台工程交流”获邀加入）
 
 
-## <span id="5">5. Books 图书</span>
+## <span id="5">5. Books/Report/Whitepaper 图书/报告/白皮书</span>
 - [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton and Manuel Pais was published in September 2019 by IT Revolution Press.
 - [Remote Team Interactions Workbook](https://teamtopologies.com/workbook) by Matthew Skelton and Manuel Pais will be published in January 2022 by IT Revolution Press
 - [Building Software Platforms](https://leanpub.com/software-platforms)
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
 - eBook : [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
+- CNCF: [Whitepaper on Platforms for Cloud Native Computing](https://appdelivery.cncf.io/whitepapers/platforms/)
+
 
 ## <span id="6">6. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
@@ -152,7 +154,7 @@ An awesome list of Platform Engineering
 - 2023-1-6 [The 12 Platform Challenges - recap](https://www.syntasso.io/post/the-12-platform-challenges-recap)
 - 2023-01-11 James Walker [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)
 - 2023-1-26 [Internal Developer Portals Can Do More than You Think](https://thenewstack.io/internal-developer-portals-can-do-more-than-you-think/)
-- 2023-4-10 [CNCF Platforms White Paper](https://appdelivery.cncf.io/whitepapers/platforms/)
+- 2022-4-11 [Announcing a white paper on Platforms for Cloud Native Computing](https://www.cncf.io/blog/2023/04/11/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)
 
 ## <span id="10">10. Chinese Article 中文文章</span>
 

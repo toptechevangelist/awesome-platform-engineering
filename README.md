@@ -69,6 +69,7 @@ An awesome list of Platform Engineering
 - [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton and Manuel Pais was published in September 2019 by IT Revolution Press.
 - [Remote Team Interactions Workbook](https://teamtopologies.com/workbook) by Matthew Skelton and Manuel Pais will be published in January 2022 by IT Revolution Press
 - [Building Software Platforms](https://leanpub.com/software-platforms)
+- InfoQ minibook [The Platform Engineering Guide: Principles and Best Practices](https://www.infoq.com/minibooks/platform-engineering-guide)
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
 - eBook : [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
 - CNCF: [Whitepaper on Platforms for Cloud Native Computing](https://appdelivery.cncf.io/whitepapers/platforms/)

@@ -33,7 +33,7 @@ An awesome list of Platform Engineering
 - Team Topologies 团队拓扑 
 - Cognitive Load 认知负荷
 - Knowledge Transfer 知识迁移 
-- TVP : Thinnest viable platform 最小可用平台
+- TVP : Thinnest viable platform 最薄可行平台
 
 
 ## <span id="2">2. Specification/Solution/Project 规范/解决方案/项目</span>

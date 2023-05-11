@@ -155,11 +155,14 @@ An awesome list of Platform Engineering
 - 2022-12-13 Daniel Bryant : [Platform Engineering in 2023: Dev First, Collaboration and APIs](https://thenewstack.io/platform-engineering-in-2023-dev-first-collaboration-and-apis)
 - 2022-12-14 [Platform Engineering Needs a Prescriptive Roadmap: a Conversation with Nigel Kersten](https://www.infoq.com/articles/platform-engineering-roadmap)
 - 2022-12-21 [Platform Engineering is Not New and DevOps is Not Dead](https://sdtimes.com/devops/platform-engineering-is-not-new-and-devops-is-not-dead/)
+- 2023-1-5 Humanitec:Luca Galante [Platform engineering trends in 2023](https://humanitec.com/blog/platform-engineering-trends-in-2023)
 - 2023-1-6 [The 12 Platform Challenges - recap](https://www.syntasso.io/post/the-12-platform-challenges-recap)
 - 2023-01-11 James Walker [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)
 - 2023-1-26 [Internal Developer Portals Can Do More than You Think](https://thenewstack.io/internal-developer-portals-can-do-more-than-you-think/)
 - 2022-4-11 [Announcing a white paper on Platforms for Cloud Native Computing](https://www.cncf.io/blog/2023/04/11/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)
+- 2023-4-12 Mia-Platform Team [7 core components of an Internal Developer Platform ]( https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform )
 - 2022-4-24 [Platform as a Runtime (PaaR) - Beyond Platform Engineering](https://www.aviransplace.com/post/platform-as-a-runtime-paar-beyond-platform-engineering)
+
 
 ## <span id="10">10. Chinese Article 中文文章</span>
 

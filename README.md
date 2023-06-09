@@ -58,7 +58,8 @@ An awesome list of Platform Engineering
 - PlatformCon https://platformcon.com 
   - PlatformCon 2022 Talks: Stories, Design, Tech, Culture about Platform
   - PlatformCon 2023 Tracks: Stories, Tech, Blueprints, Culture, Impact 
-
+- HashiTalks https://events.hashicorp.com/hashitalks2023
+- PulumiUP https://www.pulumi.com/pulumi-up/
 
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/

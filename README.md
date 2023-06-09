@@ -52,6 +52,7 @@ An awesome list of Platform Engineering
 - https://score.dev One easy way to configure all your workload. Everywhere.
 - https://kubevela.io/ Make shipping applications more enjoyable. 
 - https://www.qovery.com/ Deliver Self-Service Infrastructure Faster
+- https://kusionstack.io/ Boost Your delivery/workflow/collaboration/automation/...
 
 
 ## <span id="3">3. Conf/Event  会议/活动</span>

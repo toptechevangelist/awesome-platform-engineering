@@ -16,24 +16,10 @@ An awesome list of Platform Engineering
 
 
 ## <span id="1">1. Concept 概念/术语 </span>
-- PE : Platform Engineering 平台工程
-- PET : Platform Engineering Team 平台工程团队
-- PPM : Platform Product Manager 平台产品经理
-- IDP : Internal Developer Platform/Portal 内部开发者平台/门户
-- DX/DevX : Developer Experience (also EX: Engineer Experience) 开发者体验/工程师体验
-- self-service API 自服务API
-- DevOps 开发运维一体化
-- SRE : Site Reliability Engineering 站点可靠性工程
-- PaaS : Platform as a Service 平台即服务 
-- Cloud Native 云原生 
-- DCP : Developer Control Plane 开发者控制面 
-- IaC : Infrastructure as Code 基础设施即代码
-- PaaP : Platform as a Product 平台即产品 
-- DCM : Dynamic Configuration Management 动态配置管理 
-- Team Topologies 团队拓扑 
-- Cognitive Load 认知负荷
-- Knowledge Transfer 知识迁移 
-- TVP : Thinnest viable platform 最薄可行平台
+**UPDATE**
+
+Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary 
+
 
 
 ## <span id="2">2. Specification/Solution/Project 规范/解决方案/项目</span>
@@ -64,6 +50,7 @@ An awesome list of Platform Engineering
 
 ## <span id="4">4. Community 社区</span>
 - Platform Engineering https://platformengineering.org/
+- PECommunity 平台工程社区 https://pecommunity.cn/ GitHub https://github.com/PECommunity/ 
 - InfoQ WeChat Group 微信群组：InfoQ平台工程技术交流群 （添加微信 nodexy 备注“平台工程交流”获邀加入）
 
 
@@ -116,6 +103,7 @@ An awesome list of Platform Engineering
 - 2015-9-28  [“Let a 1,000 Flowers Bloom. Then RIP 999 of them out by the roots” by Peter Seibel (Twitter)](http://gigamonkeys.com/flowers/)
 - 2017-3-29 [Platform engineering product teams in the ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
 - 2017-7-6 [Netflix Technology Blog： Netflix Platform Engineering — we’re just getting started](https://netflixtechblog.com/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7)
+- 2018-3-5 [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
 - 2018-9-29 [Kenichi Shibata ： How to build a platform team now! the secrets to successful engineering](https://hackernoon.com/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
 - 2019-4-5 [The Platform Engineer of the Future](https://cloudytechnologist.com/2019/04/05/the-platform-engineer-of-the-future/ )
 - 2019-4-12 [Platform engineering 101](https://www.slideshare.net/SanderKnape/platform-engineering-101)
@@ -126,6 +114,7 @@ An awesome list of Platform Engineering
 - 2021-3-11 Ulrich Kautz ： [On the Value of Platform Engineering  （下文有中文翻译）](https://ulrichkautz.com/posts/2021-03-11_value-of-platforming-engineering/)
 - 2021-5-5 [Introducing the Ambassador Developer Control Plane](https://blog.getambassador.io/introducing-the-ambassador-developer-control-plane-339c97fa4716)
 - 2021-8-3 Team Liatrio [What Is Platform Engineering? The Concept Behind the Term](https://www.liatrio.com/blog/what-is-platform-engineering-the-concept-behind-the-term)
+- 2021-10-13 Loft Labs loft.sh [Checklist for Platform Engineers](https://loft-sh.medium.com/checklist-for-platform-engineers-43b874979d74)
 - 2021-12-22 [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities)
   - Interview https://www.infoq.com/news/2021/06/engineering-organization 
 - 2022-1-3 [From Kubernetes to PaaS to Developer Control Planes](https://thenewstack.io/from-kubernetes-to-paas-to-developer-control-planes/)
@@ -164,6 +153,7 @@ An awesome list of Platform Engineering
 - 2022-4-11 [Announcing a white paper on Platforms for Cloud Native Computing](https://www.cncf.io/blog/2023/04/11/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)
 - 2023-4-12 Mia-Platform Team [7 core components of an Internal Developer Platform ]( https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform )
 - 2022-4-24 [Platform as a Runtime (PaaR) - Beyond Platform Engineering](https://www.aviransplace.com/post/platform-as-a-runtime-paar-beyond-platform-engineering)
+- 2023-7-19 [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
 
 
 ## <span id="10">10. Chinese Article 中文文章</span>
@@ -187,6 +177,7 @@ An awesome list of Platform Engineering
 - 2023-3-11 翻译 [Netflix 是如何利用联合平台控制台统一工程体验的](https://www.infoq.cn/article/3sYe2eD6ilfFyBWRt1fL)
 - 2023-3-01 InfoQ 专题：[云原生趋势下的平台工程](https://www.infoq.cn/theme/183)
 - 2023-4-20 翻译 [IDP内部开发者门户权威指南](https://mp.weixin.qq.com/s/cpqsEw2o-5p2nxH7Ic__4w)
+- 2023-7-31 平台工程洞察：[平台工程动态 MonthlyNews 2023-7](https://mp.weixin.qq.com/s/g0VCHkp5h0r2EYEGpFNTgg)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

@@ -178,6 +178,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-3-01 InfoQ 专题：[云原生趋势下的平台工程](https://www.infoq.cn/theme/183)
 - 2023-4-20 翻译 [IDP内部开发者门户权威指南](https://mp.weixin.qq.com/s/cpqsEw2o-5p2nxH7Ic__4w)
 - 2023-7-31 平台工程洞察：[平台工程动态 MonthlyNews 2023-7](https://mp.weixin.qq.com/s/g0VCHkp5h0r2EYEGpFNTgg)
+- 2023-8-31 平台工程洞察：[平台工程动态 MonthlyNews 2023-8](https://mp.weixin.qq.com/s/qTBRP4u9lTh3OOxCYUrpLg) 
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

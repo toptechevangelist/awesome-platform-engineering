@@ -62,6 +62,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
 - eBook : [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
 - CNCF: [Whitepaper on Platforms for Cloud Native Computing](https://appdelivery.cncf.io/whitepapers/platforms/)
+- [Platform Engineering on Kubernetes](https://salaboy.com/book/) by Mauricio Salatino [@salaboy](https://twitter.com/salaboy) [Manning Publishing](http://mng.bz/jjKP?ref=salaboy.com).
+  - Free Step-by-step tutorials on GitHub [https://github.com/salaboy/platforms-on-k8s/](https://github.com/salaboy/platforms-on-k8s/). Tutorials translated in Chinese by [@dustise](https://twitter.com/dustise)
+  - Translations in Chinese will be available in early 2024 via [https://www.epubit.com/](https://www.epubit.com/)
 
 
 ## <span id="6">6. Team & People 团队与个人</span>
@@ -70,6 +73,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 -  zlifecycle  https://www.zlifecycle.com/blog
 -  AmbassadorLabs  https://blog.getambassador.io/ 
 -  Devtron https://devtron.ai/blog
+-  Salaboy https://salaboy.com
 
 
 ## <span id="7">7. Channel/TAG/List 频道/标签/列表</span>
@@ -96,6 +100,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Netflix Tech Blog https://netflixtechblog.com
 - Devtron https://devtron.ai/blog
 - CTO.ai https://cto.ai/blog/
+- Salaboy https://salaboy.com
 
 
 ## <span id="9">9. Article 文章</span>
@@ -131,14 +136,18 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2022-9-21 [Loft： Platform Engineering: The Definitive Guide](https://loft.sh/blog/platform-engineering-the-definitive-guide)
 - 2022-9-22 Aeris Stewart：[DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/)
 - 2022-9-28 [Good Platform Engineering: What It Is and How to Make It Work For You](https://www.contino.io/insights/platform-engineering)  [Platform Engineering: Creating your Internal Developer Platform (Part 2)](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6) 
+- 2022-9-29 [The Challenges of Platform Building on Top of Kubernetes 1/4 by salaboy](https://www.salaboy.com/2022/09/29/the-challenges-of-platform-building-on-top-of-kubernetes-1-4/)
+- 2022-10-3 [The Challenges of Platform Building on Top of Kubernetes 2/4 by salaboy](https://www.salaboy.com/2022/10/03/the-challenges-of-platform-building-on-top-of-kubernetes-2-4/)
 - 2022-10-5 Gartner: [What Is Platform Engineering? ](https://www.gartner.com/en/articles/what-is-platform-engineering)
 - 2022-10-15 Romaric Philogène： [The 10 Platform Engineering Tools To Use in 2022 ](https://medium.com/@rphilogene/the-10-platform-engineering-tools-to-use-in-2022-c2cbf2561f77)
+- 2022-18-17 [The Challenges of Platform Building on Top of Kubernetes 3/4 by salaboy](https://www.salaboy.com/2022/10/17/the-challenges-of-platform-building-on-top-of-kubernetes-3-4/)
 - 2022-10-18 Mia-Platform：  [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre)
 - 2022-10-27 [Internal Developer Platform (IDP) benefits and its key components](https://www.xenonstack.com/insights/internal-developer-platform)
 - 2022 [zlifecycle : Platform Engineering: Using it to Gain Competitive Advantage](https://www.zlifecycle.com/blog/platform-engineering)
 - 2022-11- 21 [The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/)
 - 2022-11-22 Randy Shoup (VP of Engineering and Chief Architect at eBay): [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities)
 - 2022-11-24 Mia-Platform: [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution)
+- 2022-10-28 [The Challenges of Platform Building on Top of Kubernetes 4/4 by salaboy](https://www.salaboy.com/2022/11/28/the-challenges-of-platform-building-on-top-of-kubernetes-4-4/)
 - 2022-11-29 Platform Engineering:
   - Part 1 is about [WHY the evolution of developer cognitive load is giving Platform Engineering so much traction](https://medium.com/agorapulse-stories/platform-engineering-part-1-why-the-evolution-of-developer-cognitive-load-9f36f5cc2888)
   - Part 2 is about [WHAT Platform Engineering is, and WHAT goals a Platform Engineering team should have](https://medium.com/agorapulse-stories/platform-engineering-part-2-what-are-the-goals-of-a-platform-engineering-team-29aa439dae7d)

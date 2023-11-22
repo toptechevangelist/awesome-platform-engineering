@@ -108,7 +108,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2015-9-28  [“Let a 1,000 Flowers Bloom. Then RIP 999 of them out by the roots” by Peter Seibel (Twitter)](http://gigamonkeys.com/flowers/)
 - 2017-3-29 [Platform engineering product teams in the ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
 - 2017-7-6 [Netflix Technology Blog： Netflix Platform Engineering — we’re just getting started](https://netflixtechblog.com/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7)
-- 2018-3-5 [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
+- 2018-3-5 [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)（[中文翻译](https://mp.weixin.qq.com/s/EWoJG_2kTC7USoqhn837RQ)）
 - 2018-9-29 [Kenichi Shibata ： How to build a platform team now! the secrets to successful engineering](https://hackernoon.com/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
 - 2019-4-5 [The Platform Engineer of the Future](https://cloudytechnologist.com/2019/04/05/the-platform-engineer-of-the-future/ )
 - 2019-4-12 [Platform engineering 101](https://www.slideshare.net/SanderKnape/platform-engineering-101)

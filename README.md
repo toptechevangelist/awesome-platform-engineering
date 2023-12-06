@@ -61,11 +61,12 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - InfoQ minibook [The Platform Engineering Guide: Principles and Best Practices](https://www.infoq.com/minibooks/platform-engineering-guide)
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
 - eBook : [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
+- eBook : CircleCI - [Why and how to build a platform team in your organization](https://circleci.com/landing-pages/assets/Platform-Engineering-ebook.pdf)
 - CNCF: [Whitepaper on Platforms for Cloud Native Computing](https://appdelivery.cncf.io/whitepapers/platforms/)
 - [Platform Engineering on Kubernetes](https://salaboy.com/book/) by Mauricio Salatino [@salaboy](https://twitter.com/salaboy) [Manning Publishing](http://mng.bz/jjKP?ref=salaboy.com).
   - Free Step-by-step tutorials on GitHub [https://github.com/salaboy/platforms-on-k8s/](https://github.com/salaboy/platforms-on-k8s/). Tutorials translated in Chinese by [@dustise](https://twitter.com/dustise)
   - Translations in Chinese will be available in early 2024 via [https://www.epubit.com/](https://www.epubit.com/)
-- [Platform Engineering: What You Need to Know Now](https://thenewstack.io/ebooks/platform-engineering/platform-engineering-what-you-need-to-know-now/) 
+- eBook : [Platform Engineering: What You Need to Know Now](https://thenewstack.io/ebooks/platform-engineering/platform-engineering-what-you-need-to-know-now/) 
 
 
 ## <span id="6">6. Team & People 团队与个人</span>

@@ -26,8 +26,8 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - https://oam.dev/ OAM ~ One Application Model: An open model for defining cloud native apps.
 - https://www.argonaut.dev/ Deploy apps and infrastructure on your cloud in minutes
 - https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
-- https://humanitec.com/   Powering your Internal Developer Platform
-- https://backstage.io/  An open platform for building developer portals [Demo](https://demo.backstage.io/)
+- https://humanitec.com/ Powering your Internal Developer Platform
+- https://backstage.io/ An open platform for building developer portals [Demo](https://demo.backstage.io/)
 - https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
 - https://www.getport.io/ A No-Code Developer Portal  [Demo](https://demo.getport.io/)
 - https://roadie.io/ Roadie:  SaaS Backstage. Simple, safe, and more powerful
@@ -73,7 +73,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 -  Mia-Platform https://blog.mia-platform.eu/en
 -  Humanitec https://humanitec.com/blog
 -  zlifecycle  https://www.zlifecycle.com/blog
--  AmbassadorLabs  https://blog.getambassador.io/ 
+-  AmbassadorLabs  https://blog.getambassador.io/
 -  Devtron https://devtron.ai/blog
 -  Salaboy https://salaboy.com
 
@@ -91,10 +91,10 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 
 ## <span id="8">8. Blog/Website 博客/站点</span>
 - Platform Engineering https://platformengineering.org  
-  - Community https://community.platformengineering.org/ 
-  - Tooling https://platformengineering.org/platform-tooling 
+  - Community https://community.platformengineering.org/
+  - Tooling https://platformengineering.org/platform-tooling
 - Internal Developer Platform https://internaldeveloperplatform.org
-- Resources about Internal Platform teams and products https://internalplatforms.com 
+- Resources about Internal Platform teams and products https://internalplatforms.com
 - Mia-Platform https://blog.mia-platform.eu/en
 - Humanitec https://humanitec.com/blog
 - zlifecycle https://www.zlifecycle.com/blog

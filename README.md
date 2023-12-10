@@ -190,6 +190,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-4-20 翻译 [IDP内部开发者门户权威指南](https://mp.weixin.qq.com/s/cpqsEw2o-5p2nxH7Ic__4w)
 - 2023-7-31 平台工程洞察：[平台工程动态 MonthlyNews 2023-7](https://mp.weixin.qq.com/s/g0VCHkp5h0r2EYEGpFNTgg)
 - 2023-8-31 平台工程洞察：[平台工程动态 MonthlyNews 2023-8](https://mp.weixin.qq.com/s/qTBRP4u9lTh3OOxCYUrpLg) 
+- 2023-10-19 平台工程洞察：[平台工程动态 Monthly News 2023-9](https://mp.weixin.qq.com/s/oELU5P6PMfY5iYs-2uXgHQ)
+- 2023-11-16 平台工程洞察：[平台工程动态 Monthly News 2023-10](https://mp.weixin.qq.com/s/ygzTSFaR9tGd_rSY-5fjaQ)
+- 2023-12-08 平台工程洞察：[平台工程动态 Monthly News 2023-11](https://mp.weixin.qq.com/s/QWAW1aaHl-Wy5qNCrme-2g)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

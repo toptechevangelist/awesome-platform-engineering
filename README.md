@@ -193,6 +193,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-10-19 平台工程洞察：[平台工程动态 Monthly News 2023-9](https://mp.weixin.qq.com/s/oELU5P6PMfY5iYs-2uXgHQ)
 - 2023-11-16 平台工程洞察：[平台工程动态 Monthly News 2023-10](https://mp.weixin.qq.com/s/ygzTSFaR9tGd_rSY-5fjaQ)
 - 2023-12-08 平台工程洞察：[平台工程动态 Monthly News 2023-11](https://mp.weixin.qq.com/s/QWAW1aaHl-Wy5qNCrme-2g)
+- 2024-1-11 平台工程洞察：[平台工程动态 Monthly News 2023-12](https://pecommunity.cn/articles/monthly/2023-12)
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

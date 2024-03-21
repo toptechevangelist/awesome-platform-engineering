@@ -67,7 +67,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
   - Free Step-by-step tutorials on GitHub [https://github.com/salaboy/platforms-on-k8s/](https://github.com/salaboy/platforms-on-k8s/). Tutorials translated in Chinese by [@dustise](https://twitter.com/dustise)
   - Translations in Chinese will be available in early 2024 via [https://www.epubit.com/](https://www.epubit.com/)
 - eBook : [Platform Engineering: What You Need to Know Now](https://thenewstack.io/ebooks/platform-engineering/platform-engineering-what-you-need-to-know-now/) 
-
+- [Build: Elements of an Effective Software Organization](https://www.swarmia.com/build/) By Rebecca Murphey and Otto Hilska 2024.1.29
 
 ## <span id="6">6. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
@@ -165,7 +165,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-4-12 Mia-Platform Team [7 core components of an Internal Developer Platform ]( https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform )
 - 2022-4-24 [Platform as a Runtime (PaaR) - Beyond Platform Engineering](https://www.aviransplace.com/post/platform-as-a-runtime-paar-beyond-platform-engineering)
 - 2023-7-19 [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
-
+- 2024-3-19 [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html)
 
 ## <span id="10">10. Chinese Article 中文文章</span>
 
@@ -194,6 +194,10 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-11-16 平台工程洞察：[平台工程动态 Monthly News 2023-10](https://mp.weixin.qq.com/s/ygzTSFaR9tGd_rSY-5fjaQ)
 - 2023-12-08 平台工程洞察：[平台工程动态 Monthly News 2023-11](https://mp.weixin.qq.com/s/QWAW1aaHl-Wy5qNCrme-2g)
 - 2024-1-11 平台工程洞察：[平台工程动态 Monthly News 2023-12](https://pecommunity.cn/articles/monthly/2023-12)
+- 2024-2-27 [平台工程与SRE如何推进 DevOps](https://mp.weixin.qq.com/s/D4dy10Ly7cjRDyooFv1i7w)
+- 2024-3-6 [Backstage的Spotify插件 Skill Exchange 概述](https://mp.weixin.qq.com/s/ws3kOQ0VOjvTjcAMqOKFFg)
+- 2024-3-13 [CNCF platform WG: 平台术语表 v2](https://mp.weixin.qq.com/s/s7xq-eG0dCSdpmva6hf0NQ)
+
 
 # <span id="11">11. Contribution 贡献</span>
 Welcome to contribute by issue & PR !  

@@ -165,6 +165,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-4-12 Mia-Platform Team [7 core components of an Internal Developer Platform ]( https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform )
 - 2022-4-24 [Platform as a Runtime (PaaR) - Beyond Platform Engineering](https://www.aviransplace.com/post/platform-as-a-runtime-paar-beyond-platform-engineering)
 - 2023-7-19 [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
+- 2023-11-22 [How to Be an Effective Platform Engineering Team](https://thenewstack.io/how-to-be-an-effective-platform-engineering-team/)
 - 2024-3-19 [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html)
 
 ## <span id="10">10. Chinese Article 中文文章</span>

@@ -23,23 +23,24 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 
 
 ## <span id="2">2. Specification/Solution/Project 规范/解决方案/项目</span>
-- https://oam.dev/ OAM ~ One Application Model: An open model for defining cloud native apps.
-- https://www.argonaut.dev/ Deploy apps and infrastructure on your cloud in minutes
-- https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
-- https://humanitec.com/ Powering your Internal Developer Platform
-- https://backstage.io/ An open platform for building developer portals [Demo](https://demo.backstage.io/)
-- https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
-- https://www.getport.io/ A No-Code Developer Portal  [Demo](https://demo.getport.io/)
-- https://roadie.io/ Roadie:  SaaS Backstage. Simple, safe, and more powerful
-- https://www.zymr.com/product-platform-engineering-services ZYMR: WE EXCEL AT PLATFORM ENGINEERING   
-- https://www.cycloid.io/platform-engineering cycloid :  Platform Engineering is DevOps with an action plan  
-- https://cto.ai/platform  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
-- https://github.com/syntasso/kratix  Kratix is a framework for building Platform-as-a-Product
-- https://score.dev One easy way to configure all your workload. Everywhere.
-- https://kubevela.io/ Make shipping applications more enjoyable. 
-- https://www.qovery.com/ Deliver Self-Service Infrastructure Faster
-- https://kusionstack.io/ Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
-
+- OAM https://oam.dev/ One Application Model: An open model for defining cloud native apps.
+- Argonaut https://www.argonaut.dev/ Deploy apps and infrastructure on your cloud in minutes
+- Mia Platform https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
+- Humanitec https://humanitec.com/ Powering your Internal Developer Platform
+- Backstage https://backstage.io/ An open platform for building developer portals | Software catalog and developer platform [Demo](https://demo.backstage.io/)
+- Devtron https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
+- GetPort https://www.getport.io/ A No-Code Developer Portal  [Demo](https://demo.getport.io/)
+- Roadie https://roadie.io/ Roadie:  SaaS Backstage. Simple, safe, and more powerful
+- zymr https://www.zymr.com/product-platform-engineering-services ZYMR: WE EXCEL AT PLATFORM ENGINEERING   
+- cycloid https://www.cycloid.io/platform-engineering cycloid :  Platform Engineering is DevOps with an action plan  
+- CTO.ai https://cto.ai/platform  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
+- Kratix https://github.com/syntasso/kratix  Kratix is a framework for building Platform-as-a-Product
+- Score https://score.dev One easy way to configure all your workload. Everywhere.
+- KubeVela https://kubevela.io/ Make shipping applications more enjoyable. 
+- Qovery https://www.qovery.com/ Deliver Self-Service Infrastructure Faster
+- KusionStack https://kusionstack.io/ Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
+- BACK Stack https://backstack.dev/ Build a Developer Platform in seconds: Backstage | Argo CD | Crossplane | Kyverno
+- CNOE https://cnoe.io/ Cloud Native Operational Excellence | CNOE aims at helping platform engineers build their IDP platforms faster and in a more secure way with best practices built in
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

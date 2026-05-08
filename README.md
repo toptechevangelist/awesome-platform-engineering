@@ -88,6 +88,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Medium TAG https://medium.com/tag/platform-engineering 
 - dev.to https://dev.to/search?q=platform%20engineering 
 - InfoQ Topic https://www.infoq.com/platformengineering/ 
+- Platform Weekly https://platformweekly.com/
 - [Platform Tooling - Explore the right tools to build your Internal Developer Platform](https://platformengineering.org/platform-tooling)
 - [Platform tooling to build your Internal Developer Platform](https://internaldeveloperplatform.org/platform-tooling/)
 - [Curated list of tools and resources for Platform Engineering](https://hospodarets.com/awesome-platform-engineering/)
@@ -97,7 +98,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Platform Engineering https://platformengineering.org  
   - Community https://community.platformengineering.org/
   - Tooling https://platformengineering.org/platform-tooling
+  - University https://university.platformengineering.org
 - Internal Developer Platform https://internaldeveloperplatform.org
+- Weave Intelligence https://weaveintelligence.io
 - Resources about Internal Platform teams and products https://internalplatforms.com
 - Mia-Platform https://blog.mia-platform.eu/en
 - Humanitec https://humanitec.com/blog

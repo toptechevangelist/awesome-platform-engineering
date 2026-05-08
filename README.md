@@ -29,6 +29,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Humanitec https://humanitec.com/ Powering your Internal Developer Platform
 - Backstage https://backstage.io/ An open platform for building developer portals | Software catalog and developer platform [Demo](https://demo.backstage.io/)
 - Devtron https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
+- Fortem https://fortem.dev/ AI-native Internal Developer Platform for Kubernetes — self-hosted, single Helm chart install, NL-to-manifest generation, AIOps cost optimization, zero vendor lock-in
 - GetPort https://www.getport.io/ A No-Code Developer Portal  [Demo](https://demo.getport.io/)
 - Roadie https://roadie.io/ Roadie:  SaaS Backstage. Simple, safe, and more powerful
 - zymr https://www.zymr.com/product-platform-engineering-services ZYMR: WE EXCEL AT PLATFORM ENGINEERING   

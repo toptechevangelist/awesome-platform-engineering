@@ -28,6 +28,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Mia Platform https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
 - Humanitec https://humanitec.com/ Powering your Internal Developer Platform
 - Backstage https://backstage.io/ An open platform for building developer portals | Software catalog and developer platform [Demo](https://demo.backstage.io/)
+- Openchoreo https://openchoreo.dev/ A complete, open-source Internal developer platform for Kubernetes 
 - Devtron https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
 - Fortem https://fortem.dev/ AI-native Internal Developer Platform for Kubernetes — self-hosted, single Helm chart install, NL-to-manifest generation, AIOps cost optimization, zero vendor lock-in
 - GetPort https://www.getport.io/ A No-Code Developer Portal  [Demo](https://demo.getport.io/)

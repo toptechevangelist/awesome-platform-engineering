@@ -94,6 +94,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - [Platform Tooling - Explore the right tools to build your Internal Developer Platform](https://platformengineering.org/platform-tooling)
 - [Platform tooling to build your Internal Developer Platform](https://internaldeveloperplatform.org/platform-tooling/)
 - [Curated list of tools and resources for Platform Engineering](https://hospodarets.com/awesome-platform-engineering/)
+- [Production Readiness Checklist - Framework-independent review guidance across the engineering lifecycle](https://github.com/MarinJursic/production-readiness-checklist)
 
 
 ## <span id="8">8. Blog/Website 博客/站点</span>

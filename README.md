@@ -46,6 +46,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - KubeStellar Console https://github.com/kubestellar/console Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and 20+ CNCF project integrations | CNCF Sandbox project for edge-to-cloud platform management [Demo](https://console.kubestellar.io)
 - Ownkube https://ownkube.io AI-enabled developer platform that runs in your own AWS account on k3s or EKS. Git-push deploys, managed Postgres, preview environments per PR, AI error detection. Free on single-node k3s.
 - KnoxOps https://knoxops.app/?invite_token=GITHUB26 AI-native ops agent that gives AI agents production-safe execution with human review and a built-in knowledge graph.
+- emisar https://github.com/AndrewDryga/emisar Gives AI agents a controlled way to work on servers through defined actions, policy checks, optional approvals, and host-side validation.
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

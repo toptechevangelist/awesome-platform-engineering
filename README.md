@@ -42,6 +42,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Qovery https://www.qovery.com/ Deliver Self-Service Infrastructure Faster
 - KusionStack https://kusionstack.io/ Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 - BACK Stack https://backstack.dev/ Build a Developer Platform in seconds: Backstage | Argo CD | Crossplane | Kyverno
+- demo-developer-platform https://github.com/efekaya-devops/demo-developer-platform A runnable reference IDP (Backstage + ArgoCD + Crossplane + Terraform, kind cluster) with the [walkthrough](https://demo.efekaya.io) it backs
 - CNOE https://cnoe.io/ Cloud Native Operational Excellence | CNOE aims at helping platform engineers build their IDP platforms faster and in a more secure way with best practices built in
 - KubeStellar Console https://github.com/kubestellar/console Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and 20+ CNCF project integrations | CNCF Sandbox project for edge-to-cloud platform management [Demo](https://console.kubestellar.io)
 - Ownkube https://ownkube.io AI-enabled developer platform that runs in your own AWS account on k3s or EKS. Git-push deploys, managed Postgres, preview environments per PR, AI error detection. Free on single-node k3s.
@@ -113,6 +114,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Devtron https://devtron.ai/blog
 - CTO.ai https://cto.ai/blog/
 - Salaboy https://salaboy.com
+- Efe Kaya https://efekaya.io/blog — platform engineering & IDP economics (DORA metrics, golden paths, ROI/build-vs-buy)
 
 
 ## <span id="9">9. Article 文章</span>

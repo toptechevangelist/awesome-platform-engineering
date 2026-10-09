@@ -49,6 +49,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Peon https://peon.sh/ Open-source self-hosted Docker PaaS (Vercel/Heroku alternative) with project RBAC, audit logs, and MCP
 - KnoxOps https://knoxops.app/?invite_token=GITHUB26 AI-native ops agent that gives AI agents production-safe execution with human review and a built-in knowledge graph.
 - emisar https://github.com/AndrewDryga/emisar Gives AI agents a controlled way to work on servers through defined actions, policy checks, optional approvals, and host-side validation.
+- CodeOtter https://codeotter.io/ Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea. Scores PRs, enforces merge gates as status checks and posts inline fixes, using local GGUF models or your own API key.
 - YYLO https://github.com/yylo-dev/yylo Command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree with typed task, validation, merge, and release-readiness boundaries.
 
 ## <span id="3">3. Conf/Event  会议/活动</span>

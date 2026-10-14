@@ -51,6 +51,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - emisar https://github.com/AndrewDryga/emisar Gives AI agents a controlled way to work on servers through defined actions, policy checks, optional approvals, and host-side validation.
 - CodeOtter https://codeotter.io/ Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea. Scores PRs, enforces merge gates as status checks and posts inline fixes, using local GGUF models or your own API key.
 - YYLO https://github.com/yylo-dev/yylo Command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree with typed task, validation, merge, and release-readiness boundaries.
+- Latchkey https://latchkey.dev Self-healing GitHub Actions runners with a CLI and MCP server coding agents can drive | 自愈式 GitHub Actions 托管 Runner，提供 CLI 和 MCP Server，让编码智能体直接运行、读取并修复 CI
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

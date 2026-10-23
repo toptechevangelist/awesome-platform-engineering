@@ -52,6 +52,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - CodeOtter https://codeotter.io/ Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea. Scores PRs, enforces merge gates as status checks and posts inline fixes, using local GGUF models or your own API key.
 - YYLO https://github.com/yylo-dev/yylo Command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree with typed task, validation, merge, and release-readiness boundaries.
 - Latchkey https://latchkey.dev Self-healing GitHub Actions runners with a CLI and MCP server coding agents can drive | 自愈式 GitHub Actions 托管 Runner，提供 CLI 和 MCP Server，让编码智能体直接运行、读取并修复 CI
+- Sengi https://sengi.run/?utm_source=awesome-platform-engineering&utm_medium=listing&utm_campaign=launch-2026-10 GitHub Actions runners on 5 GHz bare-metal AMD Ryzen 9 7950X3D with local NVMe; up to 74% less per build than GitHub's runners, from $0.003/min. One-line runs-on switch | 托管 GitHub Actions Runner，运行在 5 GHz 裸金属 AMD Ryzen 9 7950X3D 和本地 NVMe 上；每次构建成本比 GitHub 官方 Runner 最多低 74%，每分钟 $0.003 起，只需修改一行 runs-on
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

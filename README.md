@@ -52,6 +52,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - CodeOtter https://codeotter.io/ Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea. Scores PRs, enforces merge gates as status checks and posts inline fixes, using local GGUF models or your own API key.
 - YYLO https://github.com/yylo-dev/yylo Command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree with typed task, validation, merge, and release-readiness boundaries.
 - Latchkey https://latchkey.dev Self-healing GitHub Actions runners with a CLI and MCP server coding agents can drive | 自愈式 GitHub Actions 托管 Runner，提供 CLI 和 MCP Server，让编码智能体直接运行、读取并修复 CI
+- deed.page https://deed.page Static hosting that coding agents and scripts publish to with one HTTP PUT or a remote MCP server, returning a live https URL; free plan with no signup | 面向 AI 编码智能体的静态托管：一次 HTTP PUT 或通过远程 MCP Server 发布 HTML，返回可访问的 https 地址，免费版无需注册
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

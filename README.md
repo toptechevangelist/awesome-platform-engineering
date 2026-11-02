@@ -56,6 +56,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - deed.page https://deed.page Static hosting that coding agents and scripts publish to with one HTTP PUT or a remote MCP server, returning a live https URL; free plan with no signup | 面向 AI 编码智能体的静态托管：一次 HTTP PUT 或通过远程 MCP Server 发布 HTML，返回可访问的 https 地址，免费版无需注册
 - Sengi https://sengi.run/?utm_source=awesome-platform-engineering&utm_medium=listing&utm_campaign=launch-2026-10 GitHub Actions runners on 5 GHz bare-metal AMD Ryzen 9 7950X3D with local NVMe; up to 74% less per build than GitHub's runners, from $0.003/min. One-line runs-on switch | 托管 GitHub Actions Runner，运行在 5 GHz 裸金属 AMD Ryzen 9 7950X3D 和本地 NVMe 上；每次构建成本比 GitHub 官方 Runner 最多低 74%，每分钟 $0.003 起，只需修改一行 runs-on
 - Easypanel https://easypanel.io/ A proprietary self-hosted server panel for deploying Git repositories, Docker images and Docker Compose, with databases and automatic SSL certificates.
+- SuperCI https://superci.dev/ GitHub Actions on the cheapest AWS spot machines, in your own account, at AWS's price with nothing added: $0.0008 a minute for 2 vCPU. One command; no servers or Kubernetes. Free and open source | 在你自己账户里最便宜的 AWS Spot 机器上运行 GitHub Actions，按 AWS 原价、不加价：2 vCPU 每分钟 $0.0008。一条命令，无需服务器或 Kubernetes。免费开源
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

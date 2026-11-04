@@ -106,6 +106,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - [Platform Tooling - Explore the right tools to build your Internal Developer Platform](https://platformengineering.org/platform-tooling)
 - [Platform tooling to build your Internal Developer Platform](https://internaldeveloperplatform.org/platform-tooling/)
 - [Curated list of tools and resources for Platform Engineering](https://hospodarets.com/awesome-platform-engineering/)
+- [Ultimate Platform Engineering Guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) - 262 platform engineering interview questions across 20 topics (internal developer platforms, golden paths, multi-tenancy, policy as code, FinOps), each with a worked example.
 
 
 ## <span id="8">8. Blog/Website 博客/站点</span>

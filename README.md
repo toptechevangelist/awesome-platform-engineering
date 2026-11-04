@@ -191,6 +191,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - 2023-7-19 [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
 - 2023-11-22 [How to Be an Effective Platform Engineering Team](https://thenewstack.io/how-to-be-an-effective-platform-engineering-team/)
 - 2024-3-19 [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html)
+- 2026-11-1 Marian Kamenistak [Platform Team Business Case: 1 Quarter In, 3 Back](https://www.marian.coach/blog/platform-team-business-case/)
 
 ## <span id="10">10. Chinese Article 中文文章</span>
 

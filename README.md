@@ -61,6 +61,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Easypanel https://easypanel.io/ A proprietary self-hosted server panel for deploying Git repositories, Docker images and Docker Compose, with databases and automatic SSL certificates.
 - SuperCI https://superci.dev/ GitHub Actions on the cheapest AWS spot machines, in your own account, at AWS's price with nothing added: $0.0008 a minute for 2 vCPU. One command; no servers or Kubernetes. Free and open source | 在你自己账户里最便宜的 AWS Spot 机器上运行 GitHub Actions，按 AWS 原价、不加价：2 vCPU 每分钟 $0.0008。一条命令，无需服务器或 Kubernetes。免费开源
 - BrewPage https://brewpage.app/ Free hosting that coding agents, CI jobs and scripts publish HTML pages, static sites, Markdown, JSON and files to with one POST, a remote MCP server or a GitHub Action, returning a shareable https link; no signup or API key | 免费托管：编码智能体、CI 任务和脚本通过一次 POST、远程 MCP Server 或 GitHub Action 发布 HTML 页面、静态站点、Markdown、JSON 和文件，返回可分享的 https 链接；无需注册或 API 密钥
+- Kodama https://github.com/optimiware/kodama API-first, multi-tenant software factory (Apache-2.0, Go) running container pipelines and AI coding agents (Claude Code, OpenCode, Codex, Pi) on rootless Podman 5 or Kubernetes Jobs, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, a model gateway, gitolite-style Git access rules, and human-in-the-loop role inbox approvals.
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 

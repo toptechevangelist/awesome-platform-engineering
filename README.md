@@ -43,6 +43,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - KusionStack https://kusionstack.io/ Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 - BACK Stack https://backstack.dev/ Build a Developer Platform in seconds: Backstage | Argo CD | Crossplane | Kyverno
 - demo-developer-platform https://github.com/efekaya-devops/demo-developer-platform A runnable reference IDP (Backstage + ArgoCD + Crossplane + Terraform, kind cluster) with the [walkthrough](https://demo.efekaya.io) it backs
+- Nife https://nife.io/ Deploy apps across cloud, edge and private infrastructure from one control plane.
 - CNOE https://cnoe.io/ Cloud Native Operational Excellence | CNOE aims at helping platform engineers build their IDP platforms faster and in a more secure way with best practices built in
 - KubeStellar Console https://github.com/kubestellar/console Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and 20+ CNCF project integrations | CNCF Sandbox project for edge-to-cloud platform management [Demo](https://console.kubestellar.io)
 - Ownkube https://ownkube.io A cloud for personal software. Deploy apps, workers, jobs, managed Postgres and Valkey from your coding agent (MCP) or GitHub, with logs, metrics and health checks built in. Prepaid credit from $5 that never expires.
